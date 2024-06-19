@@ -44,7 +44,7 @@
 
 ---
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/phimaster0303/count.svg" />
-</p>
+<h2 align="center"> 
+  Visitor count<br><br>
+  <img aling="center" src="https://profile-counter.glitch.me/phimaster0303/count.svg" />
+</h2>
