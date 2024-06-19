@@ -33,3 +33,11 @@
   
 </details>
 
+<details>
+  <summary><h2>Language Roadmap</h2></summary>
+  - [x] HTML
+  - [x] CSS
+  - [ ] JS
+  - [ ] Typescript
+  - [ ] ReactJS
+</details>
