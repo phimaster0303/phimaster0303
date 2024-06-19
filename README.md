@@ -44,6 +44,15 @@
 
 ---
 
+<details>
+  <summary>Coding Time</summary>
+
+  <img align="center" height=200 alt="top langs" src="https://github-readme-stats-2-phimaster0303s-projects.vercel.app/api/wakatime?username=phimaster0303&layout=compact&CACHE_SECONDS=1" />
+
+  
+</details>
+
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/phimaster0303/count.svg" />
