@@ -1,6 +1,6 @@
-<h1>Hello, im Philipp</h1>
+<h1>Hello, im Philipp - aka phimaster0303</h1>
 
-<p>Hi, im Philipp and I am learning Full Stack Web Development.</p>
+<p>Hi, im Philipp and I am currently learning Full Stack Web Development.</p>
 <ul>
   <li> 💻 I'm currently working on a website: <a href="https://neutronnet.net">NeutronNET</a></li>
   <li> ✍ I'm currently learning Javascript </li>
