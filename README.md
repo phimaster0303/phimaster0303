@@ -17,8 +17,12 @@
 <!-- <img align="left" alt="" width="26px" src="" style="padding-right:10px;" /> -->
 
 
-<p> </p>
-<hr>
-<p>Github Stats</p>
-<img align="left" alt="Github stats" src="https://github-readme-stats-2-phimaster0303s-projects.vercel.app/api?username=phimaster0303&show_icons=true&hide_border=true&theme=city_lights" />
+<br>
+
+<details>
+  <summary>Github Stats</summary>
+
+  <img align="left" alt="Github stats" src="https://github-readme-stats-2-phimaster0303s-projects.vercel.app/api?username=phimaster0303&show_icons=true&hide_border=true&theme=city_lights" />
+  
+</details>
 
