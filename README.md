@@ -25,7 +25,7 @@
   <summary> <h2>Github Stats</h2></summary>
 
   <img align="center" height=200 alt="Github stats" src="https://github-readme-stats-2-phimaster0303s-projects.vercel.app/api?username=phimaster0303&show_icons=true&hide_border=false&theme=dark&hide=prs,stars&border_radius=10px&" />
-  <img align="center" height=200 alt="top langs" src="https://github-readme-stats-2-phimaster0303s-projects.vercel.app/api/top-langs?username=phimaster0303&theme=dark&border_radius=10px&CACHE_SECONDS=1" />
+  <img align="center" height=200 alt="top langs" src="https://github-readme-stats-2-phimaster0303s-projects.vercel.app/api/top-langs?username=phimaster0303&theme=dark&border_radius=10px&CACHE_SECONDS=3600" />
   
 </details>
 
