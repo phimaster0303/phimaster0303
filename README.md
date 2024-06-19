@@ -8,9 +8,8 @@
 
 <p>  </p>
 <p><b>Languages and Tools:</b></p>
-wää
 
 
-<p>zap: Github Stats</p>
-<img align="left" alt="Github Stats" src="github-readme-stats-xi-liart-84.vercel.app7api?username=phimaster0303&show-icons=true&hide-border=true">
+<p>Github Stats</p>
+<img align="left" alt="Github Stats" src="github-readme-stats-xi-liart-84.vercel.app7api?username=phimaster0303">
 
