@@ -21,7 +21,7 @@
 <br>
 <br>
 <details align="left">
-  <summary>Github Stats</summary>
+  <summary>#Github Stats</summary>
 
   <img align="left" alt="Github stats" src="https://github-readme-stats-2-phimaster0303s-projects.vercel.app/api?username=phimaster0303&show_icons=true&hide_border=true&theme=dark&hide=prs&border_radius=10px" />
   
