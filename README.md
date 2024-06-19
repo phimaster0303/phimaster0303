@@ -9,7 +9,7 @@
 <p>  </p>
 <p><b>Languages and Tools:</b></p>
 
-
+---
 <p>Github Stats</p>
-<img align="left" alt="Github Stats" src="github-readme-stats-xi-liart-84.vercel.app7api?username=phimaster0303">
+<img align="left" alt="Github stats" src="https://github-readme-stats-phimaster0303s-projects.vercel.app/api?username=phimaster0303&show_icons=true&hide_border=true" />
 
