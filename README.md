@@ -32,11 +32,11 @@
 <details align=center>
   <summary><h2>Programming Roadmap</h2></summary>
 
- [x] HTML
- [x] CSS
- [ ] JavaScript
- [ ] TypeScript
- [ ] ReactJS
+ - [x] HTML
+ - [X] CSS
+ - [ ] JavaScript
+ - [ ] TypeScript
+ - [ ] ReactJS
 
 </details>
 
