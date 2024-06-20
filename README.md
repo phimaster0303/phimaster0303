@@ -26,18 +26,17 @@
   <img align=center height=200 alt="top langs" src="https://github-readme-stats-2-phimaster0303s-projects.vercel.app/api/top-langs?username=phimaster0303&theme=dark&border_radius=10px&CACHE_SECONDS=600&layout=compact" />
 </div>
 
----
 
 <br>
 
-<details>
+<details align=center>
   <summary><h2>Programming Roadmap</h2></summary>
 
-* [x] HTML
-* [x] CSS
-* [ ] JavaScript
-* [ ] TypeScript
-* [ ] ReactJS
+ [x] HTML
+ [x] CSS
+ [ ] JavaScript
+ [ ] TypeScript
+ [ ] ReactJS
 
 </details>
 
