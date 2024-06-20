@@ -8,6 +8,10 @@
 
 <!-- Tools and Langs-->
 
+
+<br>
+<img align="center" height=200 alt="top langs" src="https://github-readme-stats-2-phimaster0303s-projects.vercel.app/api/top-langs?username=phimaster0303&theme=dark&border_radius=10px&CACHE_SECONDS=600&layout=compact" />
+
 <p>  </p>
 <p><b><h2>Languages and Tools:</h2></b></p>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -19,7 +23,7 @@
 
 <!-- <img align="left" alt="" width="26px" src="" style="padding-right:10px;" /> -->
 
-
+<!--
 <br>
 <br>
 <br>
@@ -30,8 +34,13 @@
   <img align="center" height=200 alt="top langs" src="https://github-readme-stats-2-phimaster0303s-projects.vercel.app/api/top-langs?username=phimaster0303&theme=dark&border_radius=10px&CACHE_SECONDS=600&layout=compact" />
   
 </details>
+-->
+
+<br>
 
 ---
+
+<br>
 
 <details>
   <summary><h2>Programming Roadmap</h2></summary>
