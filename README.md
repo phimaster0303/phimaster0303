@@ -2,7 +2,7 @@
 
 <p>Hi, im Philipp and I am currently learning Full Stack Web Development.</p>
 <ul>
-  <li> 💻 I'm currently working on a website: <a href="https://neutronnet.net">NeutronNET</a> (<a href="https://github.com/SiroxCW/WebNeutronNET">Repo</a>)</li>
+  <li> 💻 I'm currently working on a <a href="https://neutronnet.net">Website</a> [<a href="https://github.com/SiroxCW/WebNeutronNET">Repo</a>]
   <li> ✍ I'm currently learning JavaScript </li>
 </ul>
 
