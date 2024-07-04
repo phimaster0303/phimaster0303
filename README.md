@@ -35,7 +35,7 @@
 - [x] HTML
 - [x] CSS
 - [ ] JavaScript
-- [ ] TypeScript
+- [ ] ThreeJS
 - [ ] ReactJS
 
 </details>
